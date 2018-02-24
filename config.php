@@ -1,9 +1,9 @@
 <?php
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-define('DB_SERVER', '3FZLBM1-BSD-B.superfly.rocks:33061');
-define('DB_USERNAME', '3fzlbm1-bsd-b-admin');
-define('DB_PASSWORD', 'h1s-dos@is11f1ll32');
+define('DB_SERVER', 'Server');
+define('DB_USERNAME', 'UserName');
+define('DB_PASSWORD', 'password');
 define('DB_NAME', 'eCommerce');
  
 /* Attempt to connect to MySQL database */
