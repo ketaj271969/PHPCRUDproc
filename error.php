@@ -28,3 +28,11 @@
     </div>
 </body>
 </html>
+
+ // Change to error.php - part 1
+ // Change to error.php - part 2
+  // Change to error.php - part 3
+   // Change to error.php - part 4
+    // Change to error.php - part 5
+     // Change to error.php - part 6
+      // Change to error.php - part 7

@@ -72,3 +72,9 @@ if(isset($_POST["id"]) && !empty($_POST["id"])){
     </div>
 </body>
 </html>
+
+ // Change to delete/php - part 1
+  // Change to delete/php - part 2
+   // Change to delete/php - part 3
+    // Change to delete/php - part 4
+     // Change to delete/php - part 5
